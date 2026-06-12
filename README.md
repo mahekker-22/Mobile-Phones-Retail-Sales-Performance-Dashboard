@@ -4,7 +4,8 @@
 This Power BI dashboard provides an executive-level analysis of mobile phone sales across major global brands (Apple, Samsung, OnePlus, Vivo, and Xiaomi). It tracks gross revenue, transaction volumes, and regional distribution across multiple cities to identify top-performing brands, popular mobile models, and purchasing trends.
 
 ## Dashboard Snapshot
-<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/46999f23-1ea8-427f-9234-ec32f3a3d9d2" />
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/80e8b331-e7d0-4b49-9700-8d8c3b56318e" />
+
 
 
 ## Key Metrics Showcased
